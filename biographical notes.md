@@ -1,27 +1,66 @@
-  <center> <h1>王佳铭</h1><div>
-     <span>
-         <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/phone-solid.svg" width="18px">
-         13233610897
-     </span>
-     ·
-     <span>
-         <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/envelope-solid.svg" width="18px">
-         792836909@qq.com OR 792836909qq@gmail.com
-     </span>
-      <br>
-     · 
-     <span>
-         <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="18px">
-         <a href="https://github.com/Jmwang-Code">Jmwang-Code</a>
-     </span>
-     ·
-     <span>
-         <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/rss-solid.svg" width="18px">
-         <a href="https://blog.csdn.net/jj89929665?type=blog">My Blog</a>
-     </span>
+<center>
+  <div class="container">
+    <div class="info"><center>
+      <h1>王佳铭</h1>
+      <div class="contact-info">
+        <span>
+          <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/phone-solid.svg" width="18px">
+          13233610897
+        </span>
+        ·
+        <span>
+          <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/envelope-solid.svg" width="18px">
+          792836909@qq.com OR 792836909qq@gmail.com
+        </span>
+        ·
+        <span>
+          <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="18px">
+          <a href="https://github.com/Jmwang-Code">Jmwang-Code</a>
+        </span>
+        ·
+        <span>
+          <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/rss-solid.svg" width="18px">
+          <a href="https://blog.csdn.net/jj89929665?type=blog">My Blog</a>
+        </span>
+      </div></center>
+    </div>
+    <div class="qr-code">
+      <img src="websiteplanet-qr.svg" width="300px">
+    </div>
+  </div>
+</center>
 
-<img src="websiteplanet-qr.svg" width="300px">
- </div> </center>
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .info {
+    text-align: left;
+  }
+
+  .info h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  .contact-info {
+    margin-bottom: 20px;
+  }
+
+  .contact-info span {
+    margin-right: 10px;
+  }
+
+  .qr-code {
+    margin-left: 20px;
+    margin-top: 100px;
+  }
+</style>
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/info-circle-solid.svg" width="30px"> 个人信息
 
