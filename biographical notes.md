@@ -9,7 +9,7 @@
          792836909@qq.com OR 792836909qq@gmail.com
      </span>
       <br>
-     ·
+     · 
      <span>
          <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="18px">
          <a href="https://github.com/Jmwang-Code">Jmwang-Code</a>
