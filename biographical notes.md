@@ -19,6 +19,8 @@
          <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/rss-solid.svg" width="18px">
          <a href="https://blog.csdn.net/jj89929665?type=blog">My Blog</a>
      </span>
+
+<img src="websiteplanet-qr.svg" width="300px">
  </div> </center>
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/info-circle-solid.svg" width="30px"> 个人信息
