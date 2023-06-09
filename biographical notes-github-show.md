@@ -83,11 +83,11 @@
 
   主要负责：
 
-    1. 数据收集、数据治理、数据加工、数据品控。
+  1. 数据收集、数据治理、数据加工、数据品控。
 
-    2. 业务沉淀共性抽离为指导思想，独立开发公共服务 “Validation” 、“Label”、“Monitor”（校验、标签、监控）。设计、研发、维护。
+  2. 业务沉淀共性抽离为指导思想，独立开发公共服务 “Validation” 、“Label”、“Monitor”（校验、标签、监控）。设计、研发、维护。
 
-    3. 算法服务:独立完成-实体识别树的设计、研发、维护。
+  3. 算法服务:独立完成-实体识别树的设计、研发、维护。
 
 
 - **北京擎创科技有限公司，北区共研开发部，后端开发工程师**
@@ -96,9 +96,9 @@
 
   主要负责：
 
-    1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
+  1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
 
-    2. Flink算子开发、以及Aviator数据接入处理。
+  2. Flink算子开发、以及Aviator数据接入处理。
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -148,4 +148,4 @@
 - ★★☆ Redis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ ElasticSearch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ Kafka
 
 **大数据体系**
-- ★★☆ Hadoop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Flink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ Hive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ HBase
+- ★★☆ Hadoop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Flink
