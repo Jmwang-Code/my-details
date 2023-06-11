@@ -95,7 +95,7 @@
 
 
 **语言**
-- ★★★ Java CGLIB和JDK、集合、锁基本原理、SPI、线程池
+- ★★★ Java CGLIB和JDK、集合、锁基本原理、SPI、线程池、等
 - ★☆☆ Aviator 已经快速上手
 - ★☆☆ goland 可以快速学习上手
 - ★☆☆ Python 可以快速学习上手
@@ -103,7 +103,7 @@
 
 **框架**
 - ★★★ Spring 核心原理、IOC、AOP、transaction、Bean
-- ★★☆ SpringBoot 基本使用、优势
+- ★★☆ SpringBoot 使用、优势
 - ★☆☆ SpringCloud 基本使用（Nacos、Feign、Gateway、Hystrix）
 
 **数据库**
@@ -111,8 +111,8 @@
 - ★★☆ ClickHouse 列式存储、数据分区、数据压缩、数据索引、数据预取、数据缓存、数据分布式计算
 
 **中间件**
-- ★★☆ Redis Redis数据结构、Redis分布式锁、Redis分布式事务、Redis缓存穿透、Redis缓存击穿、Redis缓存雪崩、Redis缓存预热、Redis缓存降级、Redis缓存更新、Redis缓存失效、哨兵模式
-- ★☆☆ ElasticSearch 倒排索引
+- ★★☆ Redis Redis数据结构、Redis分布式锁、Redis分布式事务、Redis缓存穿透、Redis缓存击穿、Redis缓存雪崩、Redis缓存预热、Redis缓存降级、Redis缓存更新、哨兵模式
+- ★☆☆ ElasticSearch 倒排索引、跳表
 - ★☆☆ Kafka 核心架构、数据丢失
 
 **大数据体系**
