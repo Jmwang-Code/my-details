@@ -118,6 +118,13 @@
 2. [ ] 解决问题：解决了数据报表的展示数据问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
 3. [ ] 使用方法：使用了我的<span style="color:grey;">[Data-Provider](https://github.com/Jmwang-Code/Data-Provider)**开源项目**</span>的设计原稿，将数据源的数据格式类型转换为统一的展示类型。
 
+- **中台数据调度**
+
+  *Flink Aviator Nebula Flink-CDC Flink-Sql*
+
+1. [ ] 参与流程：详细设计、编码实现、单元测试。
+2. [ ] 解决问题：解决了数据调度的问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
+3. [ ] 使用方法：使用Nebula图数据量进行多CMDB数据表之间关联进行CK入库，使用Flink-CDC进行数据迁移，使用Aviator进行数据拆分和聚合、FlinkSql进行数据丰富。
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="30px"> 个人开源
 
