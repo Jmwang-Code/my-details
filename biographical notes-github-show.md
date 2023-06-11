@@ -1,7 +1,7 @@
 <center>
   <div class="container">
     <div class="info"><center>
-      <h1 style="text-align: center">王佳铭</h1>
+      <center><h1>王佳铭</h1></center>
       <div class="contact-info">
         <span>
           <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/phone-solid.svg" width="18px">
