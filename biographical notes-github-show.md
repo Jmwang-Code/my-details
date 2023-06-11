@@ -1,7 +1,7 @@
 <center>
   <div class="container">
     <div class="info"><center>
-      <center><h1>王佳铭</h1></center>
+      <h1>王佳铭</h1>
       <div class="contact-info">
         <span>
           <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/phone-solid.svg" width="18px">
@@ -25,42 +25,12 @@
       </div></center>
     </div>
     <div class="qr-code">
-      <img src="websiteplanet-qr.svg" width="300px">
+      <img src="websiteplanet-qr.svg" width="200px">
     </div>
   </div>
 </center>
 
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 800px;
-    margin: 0 auto;
-  }
 
-  .info {
-    text-align: left;
-  }
-
-  .info h1 {
-    font-size: 36px;
-    margin-bottom: 20px;
-  }
-
-  .contact-info {
-    margin-bottom: 20px;
-  }
-
-  .contact-info span {
-    margin-right: 10px;
-  }
-
-  .qr-code {
-    margin-left: 20px;
-    margin-top: 100px;
-  }
-</style>
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/info-circle-solid.svg" width="30px"> 个人信息
 
