@@ -12,6 +12,7 @@
           <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/envelope-solid.svg" width="18px">
           792836909@qq.com OR 792836909qq@gmail.com
         </span>
+        <br>
         ·
         <span>
           <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="18px">
@@ -98,7 +99,7 @@
 
     1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
 
-  2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
+    2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -108,7 +109,8 @@
 
 1. [ ] 参与流程：架构设计、详细设计、编码实现、单元测试、部署上线、维护。
 2. [ ] 解决问题：补全了在公司人工智能部实体识别树之外的实体识别树，NPL训练的模型识别目的性强，受算力和模型影响识别较慢，在大数据的场景下需要更快的检索速度。
-3. [ ] 使用方法：核心使用算法树，使得项目的检索速度达到1ms级别,时间复杂度在公司场景下常数，并且使用“荷官”服务同步数据,(预备多套方案保证数据问题CA,外部机制保证P)。
+3. [ ] 使用方法：核心使用算法树，使得项目的检索速度达到1ms级别,时间复杂度在公司场景下常数，并且使用“荷官”服务同步数据,(
+   预备多套方案保证数据问题CA,外部机制保证P)。
 
 - **数据报表**
 
@@ -116,7 +118,8 @@
 
 1. [ ] 参与流程：架构设计、详细设计、编码实现、单元测试、部署上线、维护。
 2. [ ] 解决问题：解决了数据报表的展示数据问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
-3. [ ] 使用方法：使用了我的<span style="color:grey;">[Data-Provider](https://github.com/Jmwang-Code/Data-Provider)**开源项目**</span>的设计原稿，将数据源的数据格式类型转换为统一的展示类型。
+3. [ ] 使用方法：使用了我的<span style="color:grey;">[Data-Provider](https://github.com/Jmwang-Code/Data-Provider)**
+   开源项目**</span>的设计原稿，将数据源的数据格式类型转换为统一的展示类型。
 
 - **中台数据调度**
 
@@ -135,24 +138,30 @@
 | 3   | [Data-Provider](https://github.com/Jmwang-Code/Data-Provider) | pom  | 1.0.0-SNAPSHOT | 提供了多种数据源的查询，以及数据的类型同步，作为一个Jar可以依赖在其他服务上动态的提供数据。               |
 | 4   | [EasyExcel](https://github.com/alibaba/easyexcel) | pom  | 3.3.1          | alibaba开源项目，基于POI的Excel工具，可以实现大数据量的Excel导入导出，加入开源团队。 |
 
-<center><img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg" alt="snake"></center>
-
-
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/tools-solid.svg" width="30px"> 技能清单
 
-
 **语言**
-- ★★★ Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ JavaScript
+
+- ★★★ Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆
+  C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆
+  JavaScript
 
 **框架**
-- ★★★ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ SpringBoot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ SpringCloud
+
+- ★★★ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆
+  SpringBoot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ SpringCloud
 
 **数据库**
+
 - ★★☆ MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ClickHouse
 
 **中间件**
-- ★★☆ Redis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ ElasticSearch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ Kafka
+
+- ★★☆ Redis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆
+  ElasticSearch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ Kafka
 
 **大数据体系**
-- ★★☆ Hadoop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Flink
+
+- ★★☆ Hadoop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆
+  Flink
