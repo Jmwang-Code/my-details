@@ -30,7 +30,6 @@
     </div>
   </div>
 </center>
-
 <style>
   .container {
     display: flex;
@@ -39,24 +38,19 @@
     max-width: 800px;
     margin: 0 auto;
   }
-
-  .info {
+ .info {
     text-align: left;
-  }
-
-  .info h1 {
+  } 
+ .info h1 {
     font-size: 36px;
     margin-bottom: 20px;
   }
-
   .contact-info {
     margin-bottom: 20px;
   }
-
   .contact-info span {
     margin-right: 10px;
   }
-
   .qr-code {
     margin-left: 20px;
     margin-top: 100px;
@@ -118,8 +112,7 @@
 
 1. [ ] 参与流程：架构设计、详细设计、编码实现、单元测试、部署上线、维护。
 2. [ ] 解决问题：解决了数据报表的展示数据问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
-3. [ ] 使用方法：使用了我的<span style="color:grey;">[Data-Provider](https://github.com/Jmwang-Code/Data-Provider)**
-   开源项目**</span>的设计原稿，将数据源的数据格式类型转换为统一的展示类型。
+3. [ ] 使用方法：使用了我的<span style="color:grey;">[Data-Provider](https://github.com/Jmwang-Code/Data-Provider) 开源项目</span>的设计原稿，将数据源的数据格式类型转换为统一的展示类型。
 
 - **中台数据调度**
 
@@ -143,14 +136,11 @@
 
 **语言**
 
-- ★★★ Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆
-  C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆
-  JavaScript
+- ★★★ Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆JavaScript
 
 **框架**
 
-- ★★★ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆
-  SpringBoot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ SpringCloud
+- ★★★ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆SpringBoot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ SpringCloud
 
 **数据库**
 
@@ -158,10 +148,8 @@
 
 **中间件**
 
-- ★★☆ Redis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆
-  ElasticSearch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ Kafka
+- ★★☆ Redis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ElasticSearch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆ Kafka
 
 **大数据体系**
 
-- ★★☆ Hadoop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆
-  Flink
+- ★★☆ Hadoop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆ Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★☆Flink
