@@ -28,11 +28,15 @@
 - 工作经验：3 年
 - 期望薪资：面议
 
+
+
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士，山西农业大学，软件工程专业，17级
 - 绩点：3.8，年级前 20%
 - 通过了 CET4 英语等级考试
+
+
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -55,9 +59,10 @@
 
   主要负责：
 
-    1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
-
-    2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
+      1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
+      2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
+  
+  
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -84,6 +89,8 @@
 1. [ ] 参与流程：详细设计、编码实现、单元测试。
 2. [ ] 解决问题：解决了数据调度的问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
 3. [ ] 使用方法：使用Nebula图数据量进行多CMDB数据表之间关联进行CK入库，使用Flink-CDC进行数据迁移，使用Aviator进行数据拆分和聚合、FlinkSql进行数据丰富。
+
+
 
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="30px"> 个人开源

@@ -64,11 +64,15 @@
 - 工作经验：3 年
 - 期望薪资：面议
 
+
+
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士，山西农业大学，软件工程专业，17级
 - 绩点：3.8，年级前 20%
 - 通过了 CET4 英语等级考试
+
+
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -78,11 +82,11 @@
 
   主要负责：
 
-    1. 数据收集、数据治理、数据加工、数据品控。
+      1. 数据收集、数据治理、数据加工、数据品控。
 
-    2. 业务沉淀共性抽离为指导思想，独立开发公共服务 “Validation” 、“Label”、“Monitor”（校验、标签、监控）。设计、研发、维护。
+      2. 业务沉淀共性抽离为指导思想，独立开发公共服务 “Validation” 、“Label”、“Monitor”（校验、标签、监控）。设计、研发、维护。
 
-    3. 算法服务:独立完成-实体识别树的设计、研发、维护。
+      3. 算法服务:独立完成-实体识别树的设计、研发、维护。
 
 
 - **北京擎创科技有限公司，北区共研开发部，后端开发工程师**
@@ -91,9 +95,11 @@
 
   主要负责：
 
-    1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
+      1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
 
-    2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
+      2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
+
+
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -122,6 +128,8 @@
 2. [ ] 解决问题：解决了数据调度的问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
 3. [ ] 使用方法：使用Nebula图数据量进行多CMDB数据表之间关联进行CK入库，使用Flink-CDC进行数据迁移，使用Aviator进行数据拆分和聚合、FlinkSql进行数据丰富。
 
+
+
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="30px"> 个人开源
 
 | \   | 开源项目名称                                                                             | 依赖类型 | 版本号            | 描述                                                            |
@@ -130,6 +138,7 @@
 | 2   | [spring-boot-starter-trie](https://github.com/Jmwang-Code/spring-boot-trie-service) | jar  | 1.0.0-M1       | 提供了基于SpringCloud的服务节点，可以通过Nacos注册中心进行服务发现，实现了树的动态扩容与缩容，以及服务的动态上下线。 |
 | 3   | [Data-Provider](https://github.com/Jmwang-Code/Data-Provider) | pom  | 1.0.0-SNAPSHOT | 提供了多种数据源的查询，以及数据的类型同步，作为一个Jar可以依赖在其他服务上动态的提供数据。               |
 | 4   | [EasyExcel](https://github.com/alibaba/easyexcel) | pom  | 3.3.1          | alibaba开源项目，基于POI的Excel工具，可以实现大数据量的Excel导入导出，加入开源团队。 |
+
 
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/tools-solid.svg" width="30px"> 技能清单
