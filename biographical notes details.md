@@ -59,8 +59,8 @@
 
   主要负责：
 
-      1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
-      2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
+    1. 独立开发-数据报表项目的核心数据源提供者的设计、研发、维护。
+    2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
   
   
 
