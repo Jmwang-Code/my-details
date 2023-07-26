@@ -110,7 +110,7 @@
 
 
 **语言**
-- ★★★ Java CGLIB和JDK、集合、锁基本原理、SPI、线程池、等
+- ★★★ Java CGLIB和JDK、集合、Synchronized、ReentrantLock、SPI、线程池、等
 - ★☆☆ Aviator 已经快速上手
 - ★☆☆ goland 可以快速学习上手
 - ★☆☆ Python 可以快速学习上手
