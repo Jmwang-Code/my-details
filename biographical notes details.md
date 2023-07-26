@@ -118,7 +118,7 @@
 
 **框架**
 - ★★★ Spring 核心原理、IOC、AOP、transaction、Bean
-- ★★☆ SpringBoot 使用、优势
+- ★★☆ SpringBoot 使用
 - ★☆☆ SpringCloud 基本使用（Nacos、Feign、Gateway、Hystrix）
 
 **数据库**
