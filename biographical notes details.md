@@ -23,7 +23,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/info-circle-solid.svg" width="30px"> 个人信息
 
-- 男，26岁
+- 男 26岁
 - 求职意向：Java 研发工程师 、Java 大数据工程师
 - 工作经验：3 年
 - 期望薪资：22-25k
