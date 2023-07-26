@@ -139,8 +139,8 @@
 | 3   | [Data-Provider](https://github.com/Jmwang-Code/Data-Provider) | pom  | 1.0.0-SNAPSHOT | 提供了多种数据源的查询，以及数据的类型同步，作为一个Jar可以依赖在其他服务上动态的提供数据。               |
 | 4   | [EasyExcel](https://github.com/alibaba/easyexcel) | pom  | 3.3.1          | alibaba开源项目，基于POI的Excel工具，可以实现大数据量的Excel导入导出，加入开源团队。 |
 
-- CSDN (595 articles) https://blog.csdn.net/jj89929665
-- Github (700+ submissions、Over 10000 lines of code) https://github.com/Jmwang-code    
+- [CSDN (595 articles)](https://blog.csdn.net/jj89929665)
+- [Github (700+ submissions、Over 10000 lines of code) ](https://github.com/Jmwang-code) 
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/tools-solid.svg" width="30px"> 技能清单
 
