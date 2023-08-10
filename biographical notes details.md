@@ -106,7 +106,7 @@
 - [CSDN (595 articles)](https://blog.csdn.net/jj89929665)
 - [Github (700+ submissions、Over 10000 lines of code) ](https://github.com/Jmwang-code)
 
-## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/tools-solid.svg" width="30px"> 技能清单
+## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/_icon_/tools-solid.svg" width="30px"> 技能清单
 
 
 **语言**
