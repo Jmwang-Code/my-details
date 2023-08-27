@@ -110,8 +110,8 @@
 
 
 **语言**
-- ★★★ Java CGLIB和JDK、集合、Synchronized、ReentrantLock、SPI、线程池、常用设计模式
-- ★☆☆ Aviator 已经快速上手
+- ★★★ Java CGLIB和JDK、集合、锁、SPI、线程池、常用设计模式
+- ★★☆ Aviator 已经快速上手
 - ★☆☆ goland 可以快速学习上手
 - ★☆☆ Python 可以快速学习上手
 - ★☆☆ JavaScript 可以快速学习上手
