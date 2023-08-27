@@ -110,7 +110,7 @@
 
 
 **语言**
-- ★★★ Java CGLIB和JDK、集合、锁、SPI、线程池、常用设计模式、JVM基础模型
+- ★★★ Java CGLIB和JDK、集合、锁、SPI、线程池、常用设计模式、JVM模型
 - ★★☆ Aviator 已经快速上手
 - ★☆☆ goland 可以快速学习上手
 - ★☆☆ Python 可以快速学习上手
