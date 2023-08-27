@@ -132,5 +132,5 @@
 
 **大数据体系**
 - ★☆☆ Hadoop 核心原理（HDFS、MapReduce、Yarn）
-- ★☆☆ Spark Spark核心原理、RDD原理、Spark离线计算
-- ★☆☆ Flink Flink核心原理、Flink实时计算               CDC数据迁移、Pull-Nebula数据入ck
+- ★☆☆ Spark RDD原理、Spark离线计算
+- ★☆☆ Flink Flink实时计算               CDC数据迁移、Pull-Nebula数据入ck
