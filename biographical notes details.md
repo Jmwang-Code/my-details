@@ -122,11 +122,11 @@
 - ★☆☆ SpringCloud 基本使用（Nacos、Feign、Gateway、Hystrix）
 
 **数据库**
-- ★★☆ MySQL InnoDB引擎原理、索引原理、锁原理、事务原理、SQL优化理解、SQL执行计划、主从原理、复制协议
-- ★☆☆ ClickHouse 列式存储、分区、索引、分布式计算
+- ★★★ MySQL InnoDB引擎原理、索引原理、Mysql锁、Mysql事务、数据结构、SQL执行计划、主从原理、复制协议
+- ★☆☆ ClickHouse 使用
 
 **中间件**
-- ★★☆ Redis 数据结构、分布式锁、缓存穿透、缓存击穿、缓存雪崩、哨兵模式
+- ★★☆ Redis 数据结构、数据持久化、gossip协议、缓存穿透、缓存击穿、缓存雪崩、哨兵模式
 - ★☆☆ ElasticSearch 倒排索引、跳表
 - ★☆☆ Kafka 数据丢失、重复消费、消费顺序性、生产精确性
 
