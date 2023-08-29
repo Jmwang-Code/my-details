@@ -26,7 +26,7 @@
 - 男 26岁
 - 求职意向：Java 研发工程师 、Java 大数据工程师
 - 工作经验：3 年
-- 期望薪资：21-25k
+- 期望薪资：面议
 
 
 
@@ -122,13 +122,13 @@
 - ★☆☆ SpringCloud 基本使用（Nacos、Feign、Gateway、Hystrix）
 
 **数据库**
-- ★★★ MySQL InnoDB引擎原理、索引原理、Mysql锁、Mysql事务、数据结构、SQL执行计划、主从原理、复制协议
+- ★★★ MySQL 引擎架构、InnoDB引擎原理、索引原理、Mysql锁、Mysql事务、数据结构、SQL执行计划、主从原理、复制协议
 - ★☆☆ ClickHouse 使用
 
 **中间件**
 - ★★☆ Redis 数据结构、数据持久化、gossip协议、缓存穿透、缓存击穿、缓存雪崩、哨兵模式
-- ★☆☆ ElasticSearch 倒排索引、跳表
-- ★☆☆ Kafka 数据丢失、重复消费、消费顺序性、生产精确性
+- ★☆☆ ElasticSearch 数据结构、倒排索引、跳表
+- ★☆☆ Kafka 基础架构、数据丢失、重复消费、消费顺序性、生产精确性
 
 **大数据体系**
 - ★☆☆ Hadoop 核心原理（HDFS、MapReduce、Yarn）
