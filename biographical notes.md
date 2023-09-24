@@ -26,7 +26,7 @@
       </div></center>
     </div>
     <div class="qr-code">
-      <img src="websiteplanet-qr.svg" width="300px">
+      <img src="websiteplanet-qr.svg" width="250px">
     </div>
   </div>
 </center>
