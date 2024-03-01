@@ -91,8 +91,13 @@
 2. [ ] 解决问题：解决了数据调度的问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
 3. [ ] 使用方法：使用Nebula图数据量进行多CMDB数据表之间关联进行CK入库，使用Flink-CDC进行数据迁移，使用Aviator进行数据拆分和聚合、FlinkSql进行数据丰富。
 
+- **大数据法律监督平台**
 
+*Springboot Redis dmDB(达梦数据库) doris activiti minio xxl-job*
 
+1. [ ] 参与流程：架构设计、详细设计、编码实现、单元测试、维护升级。
+2. [ ] 解决问题：开发了工作流相关功能、线索相关功能。解决了分级部署-在不同级别地区检察院进行多级部署-并且保证线索模块。
+3. [ ] 使用方法：调研各种工作流技术、学习工作流相关功能、进行工作流的开发，设计分级部署的数据交互，在各级检察院有限的资源下，去中心化维护各级项目。
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/github-brands.svg" width="30px"> 个人开源
 
@@ -101,7 +106,6 @@
 | 1   | [spring-boot-starter-trie](https://github.com/Jmwang-Code/spring-boot-starter-trie) | pom  | 1.0.0-SNAPSHOT | 特定需求下查询速度远超开源检索工具，innodb下B+树或者ES中倒排索引无法与之比拟.                       |
 | 2   | [spring-boot-starter-service](https://github.com/Jmwang-Code/spring-boot-trie-service) | jar  | 1.0.0-M1       | 提供了基于SpringCloud的服务节点，可以通过Nacos注册中心进行服务发现，实现了树的动态扩容与缩容，以及服务的动态上下线。 |
 | 3   | [Data-Provider](https://github.com/Jmwang-Code/Data-Provider) | pom  | 1.0.0-SNAPSHOT | 提供了多种数据源的查询，以及数据的类型同步，作为一个Jar可以依赖在其他服务上动态的提供数据。               |
-| 4   | [EasyExcel](https://github.com/alibaba/easyexcel) | pom  | 3.3.1          | alibaba开源项目，基于POI的Excel工具，可以实现大数据量的Excel导入导出，加入开源团队。 |
 
 - [CSDN (595 articles)](https://blog.csdn.net/jj89929665)
 - [Github (800+ submissions、Over 50000 lines of code) ](https://github.com/Jmwang-code)

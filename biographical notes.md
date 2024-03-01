@@ -129,7 +129,7 @@
 3. [ ] 使用方法：使用Nebula图数据量进行多CMDB数据表之间关联进行CK入库，使用Flink-CDC进行数据迁移，使用Aviator进行数据拆分和聚合、FlinkSql进行数据丰富。
 
 - **大数据法律监督平台**
-- 
+
   *Springboot Redis dmDB(达梦数据库) doris activiti minio xxl-job*
 
 1. [ ] 参与流程：架构设计、详细设计、编码实现、单元测试、维护升级。
