@@ -138,9 +138,3 @@
 - ★☆☆ Hadoop 核心原理（HDFS、MapReduce、Yarn）
 - ★☆☆ Spark Spark离线计算
 - ★☆☆ Flink Flink实时计算               CDC数据迁移、Pull-Nebula数据入ck
-
-
-1. 表下 建立索引
-2. 中间件，预热，缓存。hash表（）
-3. 业务层面（不同引擎），分库分表（）
-
