@@ -63,7 +63,6 @@
 
       2. Flink算子开发、以及Aviator数据接入处理、Pull-Nebula数据入ck、Flink-CDC数据迁移。
   
-  
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/project-diagram-solid.svg" width="30px"> 项目经历
 
