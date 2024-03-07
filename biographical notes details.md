@@ -66,7 +66,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **实体识别树**
+- **算法项目 —— 实体识别树**
 
   *Springboot Sqlite Redis ElasticSearch JDBC SpringCloud Nacos Feign*
 
@@ -74,7 +74,7 @@
 2. [ ] 解决问题：补全了在公司人工智能部实体识别树之外的实体识别树，NPL训练的模型识别目的性强，受算力和模型影响识别较慢，在大数据的场景下需要更快的检索速度。
 3. [ ] 使用方法：核心使用算法树，使得项目的检索速度达到1ms级别,时间复杂度在公司场景下常数，并且使用“荷官”服务同步数据,(预备多套方案保证数据问题CA,外部机制保证P)。
 
-- **数据报表**
+- **WEB项目 —— 数据报表**
 
   *Springboot Redis ElasticSearch JDBC H2*
 
@@ -82,7 +82,7 @@
 2. [ ] 解决问题：解决了数据报表的展示数据问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
 3. [ ] 使用方法：使用了我的<span style="color:grey;">[Data-Provider](https://github.com/Jmwang-Code/Data-Provider)**开源项目**</span>的设计原稿，将数据源的数据格式类型转换为统一的展示类型。
 
-- **中台数据调度**
+- **大数据项目 —— 中台数据调度**
 
   *Flink Aviator Nebula Flink-CDC Flink-Sql*
 
@@ -90,7 +90,7 @@
 2. [ ] 解决问题：解决了数据调度的问题，数据源的数据量大，数据源的数据结构复杂，数据源的数据格式类型多样,通过高扩展的设计将多种优势数据源接入并且统一展示类型，聚合计算、以及对应数据源特性计算。
 3. [ ] 使用方法：使用Nebula图数据量进行多CMDB数据表之间关联进行CK入库，使用Flink-CDC进行数据迁移，使用Aviator进行数据拆分和聚合、FlinkSql进行数据丰富。
 
-- **大数据法律监督平台**
+- **WEB项目 —— 大数据法律监督平台**
 
 *Springboot Redis dmDB(达梦数据库) doris activiti minio xxl-job*
 
