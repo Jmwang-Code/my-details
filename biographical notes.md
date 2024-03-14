@@ -144,8 +144,8 @@
 | 2   | [spring-boot-starter-trie](https://github.com/Jmwang-Code/spring-boot-trie-service) | jar  | 1.0.0-M1       | 提供了基于SpringCloud的服务节点，可以通过Nacos注册中心进行服务发现，实现了树的动态扩容与缩容，以及服务的动态上下线。 |
 | 3   | [Data-Provider](https://github.com/Jmwang-Code/Data-Provider) | pom  | 1.0.0-SNAPSHOT | 提供了多种数据源的查询，以及数据的类型同步，作为一个Jar可以依赖在其他服务上动态的提供数据。               |
 
-- [CSDN (600+ articles)](https://blog.csdn.net/jj89929665)
-- [Github (100+ submissions、Over 100000 lines of code) ](https://github.com/Jmwang-code) 
+- [CSDN (600+ 文章)](https://blog.csdn.net/jj89929665)
+- [Github (1500+ 提交、超过 100000 行代码) ](https://github.com/Jmwang-code) 
 
 ## <img src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/icon/tools-solid.svg" width="30px"> 技能清单
 
